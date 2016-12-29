@@ -6,17 +6,17 @@ app = Flask(__name__)
 
 hints = [
     {
+        "uniqueId": "0x0117c555c65f",       #Python Room
+        "text_hint": "",
+        "audio_hint":  ""
+    },
+    {
         "uniqueId": "0x0117c55d6660", #office
         "text_hint": "",
         "audio_hint":  ""
     },
     {
         "uniqueId": "0x0117c55be3a8",   #git room
-        "text_hint": "",
-        "audio_hint":  ""
-    },
-    {
-        "uniqueId": "",
         "text_hint": "",
         "audio_hint":  ""
     },
@@ -43,3 +43,5 @@ def getHint():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+    #https://enigmatic-spire-47769.herokuapp.com/
