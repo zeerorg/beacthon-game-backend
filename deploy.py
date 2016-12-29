@@ -7,16 +7,16 @@ app = Flask(__name__)
 hints = [
     {
         "uniqueId": "0x0117c555c65f",       #Python Room
-        "text_hint": "",
-        "audio_hint":  ""
+        "text_hint": "ACDC back in black",
+        "audio_hint":  "http://vocaroo.com/media_command.php?media=s1idcPeLffmb&command=download_mp3"
     },
     {
         "uniqueId": "0x0117c55d6660", #office
-        "text_hint": "",
-        "audio_hint":  ""
+        "text_hint": "ACDC highway to hell",
+        "audio_hint":  "http://vocaroo.com/media_command.php?media=s0qAVjfLeyjP&command=download_mp3"
     },
     {
-        "uniqueId": "0x0117c55be3a8",   #git room
+        "uniqueId": "",   #git room
         "text_hint": "",
         "audio_hint":  ""
     },
