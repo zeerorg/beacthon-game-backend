@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 hints = [
     {
-        "uniqueId": "0x0117c555c65f",       #Python Room
+        "uniqueId": "0x0117c55be3a8",       #git Room
         "text_hint": "ACDC back in black",
         "audio_hint":  "http://vocaroo.com/media_command.php?media=s1idcPeLffmb&command=download_mp3"
     },
@@ -16,9 +16,9 @@ hints = [
         "audio_hint":  "http://vocaroo.com/media_command.php?media=s0qAVjfLeyjP&command=download_mp3"
     },
     {
-        "uniqueId": "",   #git room
-        "text_hint": "",
-        "audio_hint":  ""
+        "uniqueId": "0x0117c555c65f",   #python room
+        "text_hint": "Bohemian Rhapsody",
+        "audio_hint":  "http://vocaroo.com/media_command.php?media=s1USPkLDoy66&command=download_mp3"
     },
     {
         "uniqueId": "",
